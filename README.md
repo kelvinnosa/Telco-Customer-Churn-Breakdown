@@ -1,4 +1,8 @@
 # Telco-Customer-Churn-Breakdown
+![](https://github.com/kelvinnosa/Telco-Customer-Churn-Breakdown/blob/78314a42a571909b57ae03ab3a29eb7cd286a2b7/Designer_converted.jpg)
+
+
+
 # Introduction 
 The telecom industry is incredibly competitive, making it essential for companies to keep their customers happy and loyal to ensure long-term success. This report dives deep into the issue of customer churn, analyzing historical data to uncover patterns, trends, and the main reasons why customers leave. The goal is to provide practical insights that can help reduce churn and boost customer satisfaction.
 
@@ -52,5 +56,5 @@ We then created custom fields to calculate important metrics like churn rate, re
 - Regularly analyze competitor strategies to identify and address gaps in your offerings. 
 - Focus on areas like download speeds, data limits, and pricing to ensure your services remain competitive.
 
-# Dashboard
-Here's a snapshot of the PowerBI dashboard:
+## **Dashboard**
+![](https://github.com/kelvinnosa/Telco-Customer-Churn-Breakdown/blob/78314a42a571909b57ae03ab3a29eb7cd286a2b7/Final%20project%204-1.jpg)
